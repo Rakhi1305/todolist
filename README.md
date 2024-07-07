@@ -1,5 +1,7 @@
 
 ![todo](https://github.com/Rakhi1305/todolist/assets/142386700/61593349-00b4-4c7a-b508-1b6c0340782a)
+![t2](https://github.com/Rakhi1305/todolist/assets/142386700/6374f0a4-12cd-42e6-b49d-5565aa0299af)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
